@@ -1,0 +1,8 @@
+com\niit\ApnagharBackend\CartTestCase.class
+com\niit\ApnagharBackend\HomeProductsTestCase.class
+com\niit\ApnagharBackend\SupplierTestCase.class
+com\niit\ApnagharBackend\UserDetailsTestCase.class
+com\niit\ApnagharBackend\CategoryTestCase.class
+com\niit\ApnagharBackend\AppTest.class
+com\niit\ApnagharBackend\ProductTestCase.class
+com\niit\ApnagharBackend\OrderDetailsTestCase.class
